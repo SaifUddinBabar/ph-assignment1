@@ -244,3 +244,45 @@ border-radius: 48px;
     font-weight: bold;
    
 }
+.form-group {
+    margin-bottom: 25px;
+}
+
+.form-group label {
+    display: block;
+    font-weight: 600;
+    color: #374151;
+    margin-bottom: 8px;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    width: 497px;
+    height: 70px;
+    padding: 12px 16px;
+    border: 2px solid #e5e7eb;
+    border-radius: 8px;
+    font-size: 16px;
+}
+.form-group textarea {
+    height: 120px;
+    
+}
+.contact-content {
+    display: flex;
+     margin-top: 137px;
+    gap: 80px;
+    
+}
+
+.contact-text h2 {
+    font-size: 97px;
+    font-weight: 700;
+    color: #1f2937;
+}
+
+.btn-full{
+    width: 100%;
+    margin-top: 19px;
+}
