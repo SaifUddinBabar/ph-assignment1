@@ -286,3 +286,39 @@ border-radius: 48px;
     width: 100%;
     margin-top: 19px;
 }
+.footer {
+    background: #ffffff;
+    padding: 60px 0;
+    text-align: center;
+    margin-top: 85px;
+}
+
+.footer-content {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.footer-logo {
+    font-size: 100px;
+    font-weight:bolder;
+    color: rgb(93, 0, 255);
+    margin-bottom: 20px;
+}
+
+.footer p {
+    color: #9ca3af;
+    margin-bottom: 30px;
+    line-height: 1.7;
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+.footer-links a {
+    color: #969798;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
